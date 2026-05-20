@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/benja/OneDrive/Documents/GitHub/implementing-std-vector-5_2026/build",
+  "command": "C:\\MinGW\\bin\\g++.exe -IC:/Users/benja/OneDrive/Documents/GitHub/implementing-std-vector-5_2026/include -g -std=gnu++1z -o src\\CMakeFiles\\VECTOR.dir\\vector.cpp.obj -c C:\\Users\\benja\\OneDrive\\Documents\\GitHub\\implementing-std-vector-5_2026\\src\\vector.cpp",
+  "file": "C:/Users/benja/OneDrive/Documents/GitHub/implementing-std-vector-5_2026/src/vector.cpp",
+  "output": "C:/Users/benja/OneDrive/Documents/GitHub/implementing-std-vector-5_2026/build/src/CMakeFiles/VECTOR.dir/vector.cpp.obj"
+},
+{
+  "directory": "C:/Users/benja/OneDrive/Documents/GitHub/implementing-std-vector-5_2026/build",
+  "command": "C:\\MinGW\\bin\\g++.exe -IC:/Users/benja/OneDrive/Documents/GitHub/implementing-std-vector-5_2026/include -g -std=gnu++1z -o src\\CMakeFiles\\Exec.dir\\main.cpp.obj -c C:\\Users\\benja\\OneDrive\\Documents\\GitHub\\implementing-std-vector-5_2026\\src\\main.cpp",
+  "file": "C:/Users/benja/OneDrive/Documents/GitHub/implementing-std-vector-5_2026/src/main.cpp",
+  "output": "C:/Users/benja/OneDrive/Documents/GitHub/implementing-std-vector-5_2026/build/src/CMakeFiles/Exec.dir/main.cpp.obj"
+}
+]

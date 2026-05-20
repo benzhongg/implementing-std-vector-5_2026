@@ -1,0 +1,8 @@
+C:/Users/benja/OneDrive/Documents/GitHub/implementing-std-vector-5_2026/build/CMakeFiles/edit_cache.dir
+C:/Users/benja/OneDrive/Documents/GitHub/implementing-std-vector-5_2026/build/CMakeFiles/rebuild_cache.dir
+C:/Users/benja/OneDrive/Documents/GitHub/implementing-std-vector-5_2026/build/src/CMakeFiles/VECTOR.dir
+C:/Users/benja/OneDrive/Documents/GitHub/implementing-std-vector-5_2026/build/src/CMakeFiles/Exec.dir
+C:/Users/benja/OneDrive/Documents/GitHub/implementing-std-vector-5_2026/build/src/CMakeFiles/edit_cache.dir
+C:/Users/benja/OneDrive/Documents/GitHub/implementing-std-vector-5_2026/build/src/CMakeFiles/rebuild_cache.dir
+C:/Users/benja/OneDrive/Documents/GitHub/implementing-std-vector-5_2026/build/tests/CMakeFiles/edit_cache.dir
+C:/Users/benja/OneDrive/Documents/GitHub/implementing-std-vector-5_2026/build/tests/CMakeFiles/rebuild_cache.dir
