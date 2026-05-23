@@ -1,5 +1,9 @@
 # ninja log v7
 2	81	8009532047480382	src/CMakeFiles/VECTOR.dir/vector.cpp.obj	c73ebcc3be6ef321
 82	166	8009532048275497	src/libVECTOR.a	f42303ec3be21556
-6	578	8009532047517886	src/CMakeFiles/Exec.dir/main.cpp.obj	4db1abbe1170e03a
-580	718	8009532053262642	src/Exec.exe	72c9c95ef9c1052c
+16	298	8011230798623130	src/CMakeFiles/Exec.dir/main.cpp.obj	4db1abbe1170e03a
+299	419	8011230801445319	src/Exec.exe	72c9c95ef9c1052c
+4	460	8011613282914389	src/CMakeFiles/Exec.dir/main.cpp.obj	4db1abbe1170e03a
+461	785	8011613287482405	src/Exec.exe	72c9c95ef9c1052c
+5	332	8011613535992213	src/CMakeFiles/Exec.dir/main.cpp.obj	4db1abbe1170e03a
+332	531	8011613539262302	src/Exec.exe	72c9c95ef9c1052c
