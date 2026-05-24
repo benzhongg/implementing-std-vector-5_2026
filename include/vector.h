@@ -1,5 +1,6 @@
 #pragma once
 #include <iostream>
+#include <stdexcept>
 
 //(a)
 using constant = int;
@@ -82,7 +83,7 @@ protected:
         m_size++;
     }
     
-    T getValueAt(int index){
+    T& getValueAt(int index){
         return *(m_memPtr + index);
     }
     
@@ -102,6 +103,8 @@ public:
     T& operator[](int index){
         if(boundsChecker(index)){
             return getValueAt(index);
+        } else {
+            throw std::out_of_range("Index is out of range");
         }
     }
     
@@ -112,6 +115,8 @@ public:
                 index++;
             }
             m_size--;
+        } else {
+            throw std::out_of_range("Index is out of range");
         }
     }
 

@@ -1,9 +1,10 @@
-include(CompilerWarnings)
+add_executable(vector_test test.cpp)
 
-add_executable(engine_tests test.cpp)
+target_link_libraries(vector_test PRIVATE VECTOR GTest::gtest_main)
 
-target_link_libraries(engine_tests PRIVATE engine)
-target_enable_warnings(engine_tests)
+include(GoogleTest)
+gtest_discover_tests(vector_test)
 
-enable_testing()
-add_test(NAME engine_tests COMMAND engine_tests)
+
+
+
